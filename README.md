@@ -4,7 +4,13 @@ This privacy policy applies to the JSONBook Macos app and explains how we collec
 
 ## What information do we collect?
 
-We do not collect any information about you when you use our app.
+Analytics Service
+
+We use an analytics service to collect anonymous data about how our app is used. This information helps us understand user behavior, app usage patterns, and demographics. Analyzing this data enables us to improve our app and provide a better user experience.
+
+Crash Reporting Service
+
+We also utilize a crash reporting service to track and analyze app crashes. When the app crashes, crash reports are generated, including information such as device information, stack traces, and the time of the crash. This data is used to diagnose and fix app crashes to enhance the app's stability.
 
 ## How do we use your information?
 
