@@ -1,6 +1,6 @@
 # Privacy Policy
 
-This privacy policy applies to the JSONBook Macos app and explains how we collect, use, and share information about you when you use our app.
+This privacy policy applies to the Macos app and explains how we collect, use, and share information about you when you use our app.
 
 ## What information do we collect?
 
